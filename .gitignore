@@ -1,0 +1,6 @@
+.vscode
+
+npm-debug.log
+
+#ignore uploads
+uploads
